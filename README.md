@@ -19,5 +19,16 @@ This system ensures a smooth recruitment process by providing a centralized plat
 - HTML, CSS, Bootstrap
 - JavaScript, jQuery
 
+## index page 
+![image](https://github.com/user-attachments/assets/410ba0b3-9ab2-45cf-ac1e-b7e9cc54e86e)
+
+## signup form
+![image](https://github.com/user-attachments/assets/9eb2962d-1eeb-476b-86bd-b4d30cb0bfd4)
+## login page
+![image](https://github.com/user-attachments/assets/a88e6aa0-7b56-45eb-8847-9cda5305edc6)
+
+
+
+
 ## Contact
 For any queries, reach out at **soubhagyapaul111@gmail.com**.
